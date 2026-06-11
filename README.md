@@ -6,8 +6,8 @@ A beginner-friendly GUI application built with Python's built-in `tkinter` libra
 
 ## Screenshot
 
-> *(Add your screenshot here after running the app)*
-> `screenshot.png`
+<img width="515" height="492" alt="image" src="https://github.com/user-attachments/assets/db129eec-973a-4149-a492-f6e311c1e911" />
+
 
 ---
 
