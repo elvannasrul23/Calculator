@@ -71,7 +71,7 @@ discount-calculator/
 
 2. **Navigate to the project folder:**
    ```bash
-   cd discount-calculator
+   cd calculator
    ```
 
 3. **Run the application:**
