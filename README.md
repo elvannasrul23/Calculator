@@ -66,12 +66,12 @@ discount-calculator/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/elvannasrul23/calculator.git
+   git clone https://github.com/elvannasrul23/Calculator.git
    ```
 
 2. **Navigate to the project folder:**
    ```bash
-   cd calculator
+   cd Calculator
    ```
 
 3. **Run the application:**
@@ -119,20 +119,6 @@ The app handles the following invalid inputs gracefully:
 - Quantity less than 1 or non-integer quantity
 
 All errors trigger a `messagebox.showerror()` dialog with a clear message — no crashes.
-
----
-
-## Possible Extensions
-
-Once you've completed the base project, try adding:
-
-- [ ] A "Reset" button to clear all fields
-- [ ] Currency formatting (e.g., `Rp 360.000`)
-- [ ] A history log showing previous calculations
-- [ ] Tax calculation as an additional input
-- [ ] Export result to a `.txt` receipt file
-
----
 
 ## License
 
